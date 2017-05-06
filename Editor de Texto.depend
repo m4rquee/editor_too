@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1480699946 source:g:\pd\too\editor de texto\main.cpp
+	"Acao.h"
+	"Pilha.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio2.h>
+
+1480348706 source:g:\pd\too\editor de texto\src\acao.cpp
+	"Acao.h"
+
+1480348668 g:\pd\too\editor de texto\include\acao.h
+	"String.h"
+
+1480698986 source:g:\pd\too\editor de texto\src\lista.cpp
+	"Lista.h"
+
+1480421526 g:\pd\too\editor de texto\include\lista.h
+	"String.h"
+
+1480418270 g:\pd\too\editor de texto\include\string.h
+	<iostream>
+	<stdexcept>
+
+1480610824 source:g:\pd\too\editor de texto\src\string.cpp
+	"String.h"
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+
+1480196498 g:\pd\too\editor de texto\include\tabeladefunc.h
+	"Acao.h"
+	<map>
+	<stdio.h>
+	<iostream>
+
+1480196502 source:g:\pd\too\editor de texto\src\tabeladefunc.cpp
+	"TabelaDeFunc.h"
+
+1480186884 g:\pd\too\editor de texto\include\pilha.h
+	<stdlib.h>
+	<stdexcept>
+
+1480348706 source:d:\pd\too\editor de texto\src\acao.cpp
+	"Acao.h"
+
+1480348668 d:\pd\too\editor de texto\include\acao.h
+	"String.h"
+
+1480418270 d:\pd\too\editor de texto\include\string.h
+	<iostream>
+	<stdexcept>
+
+1480620638 source:d:\pd\too\editor de texto\src\lista.cpp
+	"Lista.h"
+
+1480421526 d:\pd\too\editor de texto\include\lista.h
+	"String.h"
+
+1480610824 source:d:\pd\too\editor de texto\src\string.cpp
+	"String.h"
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+
+1480613732 source:d:\pd\too\editor de texto\main.cpp
+	"Acao.h"
+	"Pilha.h"
+	"Lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<conio2.h>
+
+1480186884 d:\pd\too\editor de texto\include\pilha.h
+	<stdlib.h>
+	<stdexcept>
+
